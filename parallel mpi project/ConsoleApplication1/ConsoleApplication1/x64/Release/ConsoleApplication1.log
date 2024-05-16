@@ -1,0 +1,19 @@
+﻿  ConsoleApplication1.cpp
+E:\C(36,45): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+E:\C(35,49): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+E:\C(144,63): warning C4244: 'argument': conversion from 'double' to '_Tp', possible loss of data
+E:\C(144,63): warning C4244:         with
+E:\C(144,63): warning C4244:         [
+E:\C(144,63): warning C4244:             _Tp=float
+E:\C(144,63): warning C4244:         ]
+E:\C(144,40): warning C4244: 'argument': conversion from 'double' to '_Tp', possible loss of data
+E:\C(144,40): warning C4244:         with
+E:\C(144,40): warning C4244:         [
+E:\C(144,40): warning C4244:             _Tp=float
+E:\C(144,40): warning C4244:         ]
+  Generating code
+  1 of 211 functions ( 0.5%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  ConsoleApplication1.vcxproj -> E:\C# Projects\ConsoleApplication1\x64\Release\ConsoleApplication1.exe

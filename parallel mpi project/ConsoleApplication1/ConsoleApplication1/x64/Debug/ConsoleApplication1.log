@@ -1,0 +1,6 @@
+﻿  ConsoleApplication1.cpp
+E:\C(59,116): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+E:\C(59,48): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+E:\C(67,125): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+E:\C(67,56): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  ConsoleApplication1.vcxproj -> E:\C# Projects\ConsoleApplication1\x64\Debug\ConsoleApplication1.exe
